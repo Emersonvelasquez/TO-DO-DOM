@@ -1,0 +1,29 @@
+body{
+    background: black;
+}
+
+#titulo{
+    font-family:cursive;
+    color:black;
+}
+
+.form-check{
+    color:white;
+    font-family:cursive;
+    
+}
+
+#tareas{
+    padding: 15px 0px 0px 0px;
+}
+/* .container{
+    border-width: 15px;
+    border-style: double;
+    color: rgb(8,48,187);
+    color: radial-gradient(circle, rgba(8,48,187,1) 0%, rgba(41,31,33,1) 100%);
+    
+} */
+
+.fondo{
+    background: rgb(8,48,187);
+}
